@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+![Sohaib's GitHub Banner](https://ibb.co/X3Wrx9S)
 
 <h1 align="center">Hi 👋, I'm Sohaib Furqan</h1>
 <h3 align="center">A full-stack developer specializing in React and NextJS. Also love to work with the MERN stack.</h3>
