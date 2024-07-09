@@ -1,4 +1,4 @@
-[![Sohaib Furqan](https://utfs.io/f/a8622809-ea5d-415c-88be-6a7c4d5667c7-5awg2m.png)](https://sohaibfurqan.com)
+[![Sohaib Furqan](https://utfs.io/f/32090036-16fb-48d9-8443-8cbf2d043075-olh0em.png)](https://sohaibfurqan.com)
 
 # Hi, I'm Sohaib Furqan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
