@@ -24,9 +24,6 @@
 <img  src="https://github-stats-lemon.vercel.app/api?username=sohaibfurqan92&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibfurqan92&theme=tokyonight" width="48%" >
 
-## 🌟 Most Used Weapons
-
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sohaibfurqan92&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=sohaibfurqan92&theme=react-dark)
 
 ## Connect with me:
