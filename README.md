@@ -2,7 +2,7 @@
 
 # Hi, I'm Sohaib Furqan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Software Engineer @ Genous**
+🔭 I’m currently working as **Software Engineer @ Javascript Mastery**
 
 🌱 I’m currently learning **NextJS**
 
